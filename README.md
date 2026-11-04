@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Selim!
 
-<!--
-**MstfSlm38/MstfSlm38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Computer Engineer | Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm interested in software and hardware development, computer science, artificial intelligence, and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning how things work and turning ideas into real projects.
+
+## About Me
+
+- Interested in software development and computer science
+- Exploring Python and JavaScript
+- Interested in AI and game development
+- Building and improving personal projects
+- Always curious about new technologies
+
+## Featured Project
+
+### CodeSnip
+
+An offline-first code snippet and AI prompt manager built with Electron.
+
+Developed under [CodeSnip Development Team](https://github.com/CodeSnip-DevTeam).
+
+[Explore CodeSnip](https://github.com/CodeSnip-DevTeam/CodeSnip)
+
+## Technologies & Tools
+
+- Python
+- JavaScript
+- HTML & CSS
+- Electron
+- Git & GitHub
+
+## GitHub
+
+Thanks for visiting my profile!
+
+*Learn. Build. Improve.*
